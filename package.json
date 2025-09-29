@@ -1,0 +1,19 @@
+{
+  "name": "cannaflow-website",
+  "version": "1.0.0",
+  "description": "Website for CannaFlow - the first cannabis POS with AI capabilities",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build process required for static site'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "cannabis",
+    "pos",
+    "ai",
+    "compliance"
+  ],
+  "author": "CannaFlow Team",
+  "license": " proprietary software. All rights reserved."
+}
